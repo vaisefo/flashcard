@@ -81,7 +81,7 @@ criaCartao(
 criaCartao(
 'Física',
 'Para que pode ser usado um reostato?',
-'Controle de lâmpada (abajur), rotação do ventilador, intensidade sonora(rádio),etc.'')
+'Controle de lâmpada (abajur), rotação do ventilador, intensidade sonora(rádio),etc.')
 
 criaCartao(
 'Física',
